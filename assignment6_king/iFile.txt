@@ -1,0 +1,10 @@
+Orange 0.5
+Avocado 0.5
+Apple 1.5
+Banana 0.45
+Bread 1.0
+Tommato 0.80
+Ginger 1.0
+Peach 1.5
+Grape 0.99
+Lemon 1.5
